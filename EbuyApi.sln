@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EbuyApi", "EbuyApi\EbuyApi.csproj", "{04AAB72D-8EDF-456B-AC63-F94FEEDD7B73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04AAB72D-8EDF-456B-AC63-F94FEEDD7B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AAB72D-8EDF-456B-AC63-F94FEEDD7B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AAB72D-8EDF-456B-AC63-F94FEEDD7B73}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {716C460C-FFE2-4A94-804B-8BE283E69319}
+	EndGlobalSection
+EndGlobal
